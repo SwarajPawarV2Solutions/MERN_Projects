@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Packages to Install
+
+npm i express mongoose
+
+
+npm install bcryptjs  ->    For password hashing.
+
+npm i react-router-dom  
+
+
+we use react toastify library for notification
+npm i react-toastify
+
+we have install axios in frontend
+npm i axios 
+
+we need to add in backend. cors helps us to send request from frontend to backend 
+npm i cors
+
